@@ -1,5 +1,7 @@
 # lxnRT
 
+**This is an old project which I intend to update in the future. Nevertheless, contributions are welcome!**
+
 lxnRT "lxn Resource Transfer" v0.9.1
 plugin for Kerbal Space Program v1.0.4
 by G.Rebord, August 22, 2015
